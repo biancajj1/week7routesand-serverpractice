@@ -1,0 +1,17 @@
+{
+  "name": "week7nodejs_routes",
+  "version": "1.0.0",
+  "description": "Practice my nodejs routing and server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Bianca Redifer",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.21"
+  }
+}
